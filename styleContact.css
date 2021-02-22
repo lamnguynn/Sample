@@ -27,3 +27,23 @@ a{
     color: #E4E8F5;
     text-decoration: none;
 }
+
+.banner{
+    width: 80%;
+    height: 80%;
+    top: 17%;
+    left: 130px;
+    position: absolute;
+}
+
+.banner h1{
+    font-size: 60px;
+    color: #EEF2FF;
+}
+
+.banner ul{
+    
+    color: #719DDF;
+    font-size: 20px;
+}
+
