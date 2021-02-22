@@ -49,22 +49,8 @@ a{
     color: #B1B3BA;
 }
 
-.responsive1{
-    width: auto;
-    height: 65%;
-    left: 990px;
-    top: 840px;
-    position: absolute;
+.column {
+    float: left;
+    width: 16.05%;
+    padding: 0px;
 }
-.responsive2{
-    width: auto;
-    height: 65%;
-    left: 1300px;
-    top: 835px;
-    position: absolute;
-}
-
-
-
-
-
