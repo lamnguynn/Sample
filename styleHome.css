@@ -57,7 +57,7 @@ a{
     width: 15.7619%;
     height: 95%;
     left: 69%;
-    top: 64%;
+    top: 56%;
     position: absolute;
 }
 
@@ -97,6 +97,33 @@ a{
 #button1:hover {
     border: none;
     background:#9B9EA6;
-    box-shadow: 0px 0px 1px #777;
+    box-shadow: 0px 0px 1px #777; 
+}
+
+.all-planned{
+    width: 60% ;
+}
+.all-planned h1{
+    font-size: 45px;
+    color: #EEF2FF;
+}
+.all-planned p{
+    font-size: 23px;
+    color: #B1B3BA;
+    position: relative;
+}
+
+.py-yah{
+    width: 60%;
+    height: 100%;
     
+}
+.py-yah h1{
+    font-size: 45px;
+    color: #EEF2FF;
+}
+.py-yah p{
+    font-size: 23px;
+    color: #B1B3BA;
+    position: relative;
 }
